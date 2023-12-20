@@ -34,4 +34,11 @@
   :focus-visible {
     outline: none;
   }
+
+  .w-10 {
+    @apply w-10;
+  }
+  .h-10 {
+    @apply h-10;
+  }
 }
